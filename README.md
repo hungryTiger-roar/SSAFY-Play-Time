@@ -1,6 +1,5 @@
 # SsafyPlayTime
 
-
 > ## ⚔️ 친구들과 웃으며 즐기는 물리 기반 멀티플레이 파티 게임
 
 - **서비스명**: SsafyPlayTime
