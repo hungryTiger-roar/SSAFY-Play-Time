@@ -5,8 +5,7 @@
 - **서비스명**: SsafyPlayTime
 - **개발 기간**: 2026.02.19 ~ 2026.03.30
 - **개발 인원**: 6명 (Unity Client : 6명)
-
-![alt text](docs/SSAFY PlayTime.png)
+<img src="docs/SSAFY PlayTime.png">
 
 <br>
 
